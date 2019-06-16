@@ -1,12 +1,12 @@
 .item-add-form {
-  margin-top: 10px;
-  margin-left: 10px;
+  margin-left: 0.5rem;
 }
 
 .item-add-form input {
-  margin-right: 10px;
+  height: 4rem;
 }
 
 .item-btn {
-  margin-right: 10px;
+  margin-right: 1rem;
+  height: 4rem;
 }

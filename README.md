@@ -1,3 +1,9 @@
-![alt text] https://vignette.wikia.nocookie.net/simpsons/images/e/e9/Nelson_Ha-Ha.jpg/revision/latest?cb=20121205194057
+Classic project for learning any language and framework.
 
 Todo App created with React.js
+
+In this todolist you can add, remove tasks.
+You can mark any tasks as important.
+And also you can filter tasks by their status.
+
+Design by bootstrap.
